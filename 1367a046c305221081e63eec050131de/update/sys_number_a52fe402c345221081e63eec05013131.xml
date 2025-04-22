@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_1210821_transf_0_incident_transfer_queue">x_1210821_transf_0_incident_transfer_queue</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>ITRA</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-22 22:26:37</sys_created_on>
+        <sys_id>a52fe402c345221081e63eec05013131</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ITRA</sys_name>
+        <sys_package display_value="Transfer Queue" source="x_1210821_transf_0">1367a046c305221081e63eec050131de</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Transfer Queue">1367a046c305221081e63eec050131de</sys_scope>
+        <sys_update_name>sys_number_a52fe402c345221081e63eec05013131</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-22 22:26:37</sys_updated_on>
+    </sys_number>
+</record_update>
