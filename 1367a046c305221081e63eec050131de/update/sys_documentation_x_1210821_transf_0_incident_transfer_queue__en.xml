@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Incident Transfer Queue" language="en" table="x_1210821_transf_0_incident_transfer_queue">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Incident Transfer Queue</label>
+            <language>en</language>
+            <name>x_1210821_transf_0_incident_transfer_queue</name>
+            <plural>Incident Transfer Queues</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-22 22:26:36</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Incident Transfer Queue</sys_name>
+            <sys_package display_value="Transfer Queue" source="x_1210821_transf_0">1367a046c305221081e63eec050131de</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Transfer Queue">1367a046c305221081e63eec050131de</sys_scope>
+            <sys_update_name>sys_documentation_x_1210821_transf_0_incident_transfer_queue__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-22 22:26:36</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

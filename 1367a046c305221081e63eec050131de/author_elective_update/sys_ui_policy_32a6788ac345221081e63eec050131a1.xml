@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_policy">
+    <sys_ui_policy action="DELETE">
+        <active>true</active>
+        <conditions table="x_1210821_transf_0_incident_transfer_queue">state=rejected<item display_value="Rejected" endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="rejected"/>
+        </conditions>
+        <description/>
+        <global>true</global>
+        <inherit>false</inherit>
+        <isolate_script>true</isolate_script>
+        <model_id/>
+        <model_table/>
+        <on_load>true</on_load>
+        <order>100</order>
+        <reverse_if_false>true</reverse_if_false>
+        <run_scripts>false</run_scripts>
+        <script_false><![CDATA[function onCondition() {}]]></script_false>
+        <script_true><![CDATA[function onCondition() {}]]></script_true>
+        <set_values/>
+        <short_description>State Rejected</short_description>
+        <sys_class_name>sys_ui_policy</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-22 22:59:29</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>32a6788ac345221081e63eec050131a1</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>State Rejected</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Transfer Queue" source="x_1210821_transf_0">1367a046c305221081e63eec050131de</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Transfer Queue">1367a046c305221081e63eec050131de</sys_scope>
+        <sys_update_name>sys_ui_policy_32a6788ac345221081e63eec050131a1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-22 23:02:13</sys_updated_on>
+        <table>x_1210821_transf_0_incident_transfer_queue</table>
+        <ui_type>0</ui_type>
+        <view/>
+    </sys_ui_policy>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Transfer Queue">1367a046c305221081e63eec050131de</application>
+        <file_path/>
+        <instance_id>7630e5911bca3d98fe1b43f4bd4bcb22</instance_id>
+        <instance_name>dev192770</instance_name>
+        <name>sys_ui_policy_32a6788ac345221081e63eec050131a1</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_ui_policy"&gt;&lt;sys_ui_policy action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;conditions table="x_1210821_transf_0_incident_transfer_queue"&gt;state=rejected&lt;item display_value="Rejected" endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="rejected"/&gt;&lt;/conditions&gt;&lt;description/&gt;&lt;global&gt;true&lt;/global&gt;&lt;inherit&gt;false&lt;/inherit&gt;&lt;isolate_script&gt;true&lt;/isolate_script&gt;&lt;model_id/&gt;&lt;model_table/&gt;&lt;on_load&gt;true&lt;/on_load&gt;&lt;order&gt;100&lt;/order&gt;&lt;reverse_if_false&gt;true&lt;/reverse_if_false&gt;&lt;run_scripts&gt;false&lt;/run_scripts&gt;&lt;script_false&gt;&lt;![CDATA[function onCondition() {}]]&gt;&lt;/script_false&gt;&lt;script_true&gt;&lt;![CDATA[function onCondition() {}]]&gt;&lt;/script_true&gt;&lt;set_values/&gt;&lt;short_description&gt;State Rejected&lt;/short_description&gt;&lt;sys_class_name&gt;sys_ui_policy&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2025-04-22 22:59:29&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;32a6788ac345221081e63eec050131a1&lt;/sys_id&gt;&lt;sys_mod_count&gt;2&lt;/sys_mod_count&gt;&lt;sys_name&gt;State Rejected&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Transfer Queue" source="x_1210821_transf_0"&gt;1367a046c305221081e63eec050131de&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Transfer Queue"&gt;1367a046c305221081e63eec050131de&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_ui_policy_32a6788ac345221081e63eec050131a1&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2025-04-22 23:02:13&lt;/sys_updated_on&gt;&lt;table&gt;x_1210821_transf_0_incident_transfer_queue&lt;/table&gt;&lt;ui_type&gt;0&lt;/ui_type&gt;&lt;view/&gt;&lt;/sys_ui_policy&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>1118794316</payload_hash>
+        <record_name>State Rejected</record_name>
+        <reverted_from/>
+        <source>db67a046c305221081e63eec050131e2</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-22 23:02:13</sys_created_on>
+        <sys_id>0b47b4cac345221081e63eec050131c8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1965fbcd6bb0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-22 23:02:13</sys_updated_on>
+        <type>UI Policy</type>
+        <update_guid>0347b4ca93452210ff3ae65934ec80c8</update_guid>
+        <update_guid_history>0347b4ca93452210ff3ae65934ec80c8:1118794316,3e0770cae4452210bf69550f2099019a:-146402015,32a6788a05452210a6ed32c3811e46a3:1118794316</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-22 23:05:20</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_policy">sys_ui_policy</sys_db_object>
+        <sys_id>4b110271bca04f1ebe38be6ab2a1be84</sys_id>
+        <sys_metadata>32a6788ac345221081e63eec050131a1</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>State Rejected</sys_name>
+        <sys_package display_value="Transfer Queue" source="x_1210821_transf_0">1367a046c305221081e63eec050131de</sys_package>
+        <sys_parent display_value="Incident Transfer Queue">592fa402c345221081e63eec050131c7</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Transfer Queue">1367a046c305221081e63eec050131de</sys_scope>
+        <sys_scope_delete display_value="">4f14d597bc8c41acac24f3275ba7cd10</sys_scope_delete>
+        <sys_update_name>sys_ui_policy_32a6788ac345221081e63eec050131a1</sys_update_name>
+        <sys_update_version display_value="sys_ui_policy_32a6788ac345221081e63eec050131a1">0b47b4cac345221081e63eec050131c8</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-22 23:05:20</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
