@@ -47,7 +47,6 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2025-04-22 22:26:36</sys_created_on>
-        <sys_id>1d2fa402c345221081e63eec050131ca</sys_id>
         <sys_name>x_1210821_transf_0_incident_transfer_queue</sys_name>
         <sys_package display_value="Transfer Queue" source="x_1210821_transf_0">1367a046c305221081e63eec050131de</sys_package>
         <sys_policy/>

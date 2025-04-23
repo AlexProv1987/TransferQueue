@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="Discussion" section_id="77d13406c345221081e63eec05013138" sys_domain="global" table="x_1210821_transf_0_incident_transfer_queue" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>discussion</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-22 22:40:14</sys_created_on>
+            <sys_id>09427c06c345221081e63eec05013153</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Discussion" display_value="Discussion" name="x_1210821_transf_0_incident_transfer_queue" sys_domain="global" view="Default view">77d13406c345221081e63eec05013138</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-22 22:40:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>discussion_list</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-22 22:40:14</sys_created_on>
+            <sys_id>01427c06c345221081e63eec05013154</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Discussion" display_value="Discussion" name="x_1210821_transf_0_incident_transfer_queue" sys_domain="global" view="Default view">77d13406c345221081e63eec05013138</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-22 22:40:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption>Discussion</caption>
+            <header>false</header>
+            <name>x_1210821_transf_0_incident_transfer_queue</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-22 22:38:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>77d13406c345221081e63eec05013138</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1210821_transf_0_incident_transfer_queue</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Transfer Queue" source="x_1210821_transf_0">1367a046c305221081e63eec050131de</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Transfer Queue">1367a046c305221081e63eec050131de</sys_scope>
+            <sys_update_name>sys_ui_section_77d13406c345221081e63eec05013138</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-22 22:38:31</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Transfer Queue">1367a046c305221081e63eec050131de</application>
+        <file_path/>
+        <instance_id>7630e5911bca3d98fe1b43f4bd4bcb22</instance_id>
+        <instance_name>dev192770</instance_name>
+        <name>sys_ui_section_77d13406c345221081e63eec05013138</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="Discussion" section_id="77d13406c345221081e63eec05013138" sys_domain="global" table="x_1210821_transf_0_incident_transfer_queue" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>discussion</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-22 22:40:14</sys_created_on><sys_id>09427c06c345221081e63eec05013153</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Discussion" display_value="Discussion" name="x_1210821_transf_0_incident_transfer_queue" sys_domain="global" view="Default view">77d13406c345221081e63eec05013138</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-22 22:40:14</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>discussion_list</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-22 22:40:14</sys_created_on><sys_id>01427c06c345221081e63eec05013154</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Discussion" display_value="Discussion" name="x_1210821_transf_0_incident_transfer_queue" sys_domain="global" view="Default view">77d13406c345221081e63eec05013138</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-22 22:40:14</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>Discussion</caption><header>false</header><name>x_1210821_transf_0_incident_transfer_queue</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-22 22:38:31</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>77d13406c345221081e63eec05013138</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1210821_transf_0_incident_transfer_queue</sys_name><sys_overrides/><sys_package display_value="Transfer Queue" source="x_1210821_transf_0">1367a046c305221081e63eec050131de</sys_package><sys_policy/><sys_scope display_value="Transfer Queue">1367a046c305221081e63eec050131de</sys_scope><sys_update_name>sys_ui_section_77d13406c345221081e63eec05013138</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-22 22:38:31</sys_updated_on><sys_user/><title>false</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>1122873655</payload_hash>
+        <record_name>Incident Transfer Queue</record_name>
+        <reverted_from/>
+        <source>db67a046c305221081e63eec050131e2</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-22 22:40:14</sys_created_on>
+        <sys_id>8d427c06c345221081e63eec05013155</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1965fa8b76c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-22 22:40:14</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>c5427c0627452210e71e701426f82c55</update_guid>
+        <update_guid_history>c5427c0627452210e71e701426f82c55:1122873655,88e13406754522106f0508199bf1db68:688784414</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-22 22:41:34</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>3ee85a82b2454fd097990770f38d8900</sys_id>
+        <sys_metadata>77d13406c345221081e63eec05013138</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Discussion</sys_name>
+        <sys_package display_value="Transfer Queue" source="x_1210821_transf_0">1367a046c305221081e63eec050131de</sys_package>
+        <sys_parent display_value="Incident Transfer Queue">592fa402c345221081e63eec050131c7</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Transfer Queue">1367a046c305221081e63eec050131de</sys_scope>
+        <sys_scope_delete display_value="">4f14d597bc8c41acac24f3275ba7cd10</sys_scope_delete>
+        <sys_update_name>sys_ui_section_77d13406c345221081e63eec05013138</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_77d13406c345221081e63eec05013138">8d427c06c345221081e63eec05013155</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-22 22:41:34</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

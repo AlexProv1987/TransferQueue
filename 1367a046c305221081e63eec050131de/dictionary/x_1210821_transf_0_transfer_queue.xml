@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="cbade08ec305221081e63eec0501310d" label="Transfer Queue" max_length="40" name="x_1210821_transf_0_transfer_queue" type="collection">
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" display="true" label="Number" max_length="40" name="number" read_only="true" type="string"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element default="javascript:gs.getUserID();" dynamic_default_value="90d1921e5f510100a9ad2572f2b477fe" label="Initiated By" max_length="32" name="initiated_by" read_only="true" reference="sys_user" type="reference" use_dynamic_default="true"/>
+        <element label="Transfer To" mandatory="true" max_length="32" name="transfer_to" reference="sys_user_group" type="reference"/>
+        <element label="Transfer From" max_length="32" name="transfer_from" read_only="true" reference="sys_user_group" type="reference"/>
+        <element label="Rejected At" max_length="40" name="rejected_at" read_only="true" type="glide_date_time"/>
+        <element label="Task" mandatory="true" max_length="32" name="task" read_only="true" reference="task" type="reference"/>
+        <element label="Rejected By" max_length="32" name="rejected_by" read_only="true" reference="sys_user" type="reference"/>
+        <element label="Accepted By" max_length="32" name="accepted_by" read_only="true" reference="sys_user" type="reference"/>
+        <element label="Accepted At" max_length="40" name="accepted_at" read_only="true" type="glide_date_time"/>
+        <element label="Transfer Reason" max_length="255" name="transfer_reason" type="string"/>
+        <element label="Rejection Reason" max_length="255" name="rejection_reason" type="string"/>
+        <element choice="3" default="pending" label="State" max_length="40" name="state" read_only="true" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Accepted" sequence="2" value="accepted"/>
+                <element inactive_on_update="false" label="Pending" sequence="0" value="pending"/>
+                <element inactive_on_update="false" label="Auto Dropped" sequence="3" value="auto_dropped"/>
+                <element inactive_on_update="false" label="Rejected" sequence="1" value="rejected"/>
+            </choice>
+        </element>
+        <index name="index">
+            <element name="initiated_by"/>
+        </index>
+        <index name="index2">
+            <element name="rejected_by"/>
+        </index>
+        <index name="index3">
+            <element name="sys_class_name"/>
+        </index>
+        <index name="index4">
+            <element name="task"/>
+        </index>
+        <index name="index5">
+            <element name="transfer_from"/>
+        </index>
+        <index name="index6">
+            <element name="transfer_to"/>
+        </index>
+    </element>
+</database>
