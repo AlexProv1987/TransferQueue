@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_config">
+    <sys_ux_app_config action="DELETE">
+        <active>true</active>
+        <custom_icon/>
+        <default_route_type/>
+        <description>Incident Transfer Queue Page</description>
+        <disable_auto_reflow>false</disable_auto_reflow>
+        <encode_query_string>false</encode_query_string>
+        <icon/>
+        <landing_path>home</landing_path>
+        <name>Incident Transfer Queue App Config</name>
+        <prefetch_limits/>
+        <sys_class_name>sys_ux_app_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-23 00:21:03</sys_created_on>
+        <sys_id>5559cd8297c522108fae36a335657286</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Incident Transfer Queue App Config</sys_name>
+        <sys_package display_value="Transfer Queue" source="x_1210821_transf_0">1367a046c305221081e63eec050131de</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Transfer Queue">1367a046c305221081e63eec050131de</sys_scope>
+        <sys_update_name>sys_ux_app_config_5559cd8297c522108fae36a335657286</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-23 00:21:03</sys_updated_on>
+    </sys_ux_app_config>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Transfer Queue">1367a046c305221081e63eec050131de</application>
+        <file_path/>
+        <instance_id>7630e5911bca3d98fe1b43f4bd4bcb22</instance_id>
+        <instance_name>dev192770</instance_name>
+        <name>sys_ux_app_config_5559cd8297c522108fae36a335657286</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_config"><sys_ux_app_config action="INSERT_OR_UPDATE"><active>true</active><custom_icon/><default_route_type/><description>Incident Transfer Queue Page</description><disable_auto_reflow>false</disable_auto_reflow><encode_query_string>false</encode_query_string><icon/><landing_path>home</landing_path><name>Incident Transfer Queue App Config</name><prefetch_limits/><sys_class_name>sys_ux_app_config</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-23 00:21:03</sys_created_on><sys_id>5559cd8297c522108fae36a335657286</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Incident Transfer Queue App Config</sys_name><sys_package display_value="Transfer Queue" source="x_1210821_transf_0">1367a046c305221081e63eec050131de</sys_package><sys_policy/><sys_scope display_value="Transfer Queue">1367a046c305221081e63eec050131de</sys_scope><sys_update_name>sys_ux_app_config_5559cd8297c522108fae36a335657286</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-23 00:21:03</sys_updated_on></sys_ux_app_config></record_update>]]></payload>
+        <payload_hash>907711028</payload_hash>
+        <record_name>Incident Transfer Queue App Config</record_name>
+        <reverted_from/>
+        <source>5991d402c301221081e63eec05013119</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2025-04-22 20:17:27</sys_created_on>
+        <sys_id>c3ba4946c3c5221081e63eec050131cb</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>1965f25fbd80000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX App Configuration</type>
+        <update_guid>83ba49463ec5221063e557a4e10271cb</update_guid>
+        <update_guid_history>83ba49463ec5221063e557a4e10271cb:907711028</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-23 00:27:09</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_app_config">sys_ux_app_config</sys_db_object>
+        <sys_id>3169ae0390a540e1bb18663d8203c009</sys_id>
+        <sys_metadata>5559cd8297c522108fae36a335657286</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Incident Transfer Queue App Config</sys_name>
+        <sys_package display_value="Transfer Queue" source="x_1210821_transf_0">1367a046c305221081e63eec050131de</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Transfer Queue">1367a046c305221081e63eec050131de</sys_scope>
+        <sys_scope_delete display_value="">4f14d597bc8c41acac24f3275ba7cd10</sys_scope_delete>
+        <sys_update_name>sys_ux_app_config_5559cd8297c522108fae36a335657286</sys_update_name>
+        <sys_update_version display_value="sys_ux_app_config_5559cd8297c522108fae36a335657286">c3ba4946c3c5221081e63eec050131cb</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-23 00:27:09</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

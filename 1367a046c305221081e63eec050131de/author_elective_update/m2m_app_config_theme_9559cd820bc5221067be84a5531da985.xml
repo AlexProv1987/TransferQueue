@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="m2m_app_config_theme">
+    <m2m_app_config_theme action="DELETE">
+        <applicability/>
+        <order>0</order>
+        <sys_class_name>m2m_app_config_theme</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-23 00:21:03</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>9559cd820bc5221067be84a5531da985</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Transfer Queue" source="x_1210821_transf_0">1367a046c305221081e63eec050131de</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Transfer Queue">1367a046c305221081e63eec050131de</sys_scope>
+        <sys_update_name>m2m_app_config_theme_9559cd820bc5221067be84a5531da985</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-23 00:21:03</sys_updated_on>
+        <theme display_value="Base Agent Workspace theme">c012213bc39b10101d590cf06e40dd32</theme>
+        <ux_app_configuration display_value="">5559cd8297c522108fae36a335657286</ux_app_configuration>
+    </m2m_app_config_theme>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Transfer Queue">1367a046c305221081e63eec050131de</application>
+        <file_path/>
+        <instance_id>7630e5911bca3d98fe1b43f4bd4bcb22</instance_id>
+        <instance_name>dev192770</instance_name>
+        <name>m2m_app_config_theme_9559cd820bc5221067be84a5531da985</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="m2m_app_config_theme"><m2m_app_config_theme action="INSERT_OR_UPDATE"><applicability/><order>0</order><sys_class_name>m2m_app_config_theme</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-23 00:21:03</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>9559cd820bc5221067be84a5531da985</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="Transfer Queue" source="x_1210821_transf_0">1367a046c305221081e63eec050131de</sys_package><sys_policy/><sys_scope display_value="Transfer Queue">1367a046c305221081e63eec050131de</sys_scope><sys_update_name>m2m_app_config_theme_9559cd820bc5221067be84a5531da985</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-23 00:21:03</sys_updated_on><theme display_value="Base Agent Workspace theme">c012213bc39b10101d590cf06e40dd32</theme><ux_app_configuration display_value="">5559cd8297c522108fae36a335657286</ux_app_configuration></m2m_app_config_theme></record_update>]]></payload>
+        <payload_hash>-1370922492</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>5991d402c301221081e63eec05013119</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2025-04-22 20:17:27</sys_created_on>
+        <sys_id>c3ba4946c3c5221081e63eec050131f6</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>1965f25fbd80000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX App Theme</type>
+        <update_guid>83ba494616c5221037ca90ce1b4394f6</update_guid>
+        <update_guid_history>83ba494616c5221037ca90ce1b4394f6:-1370922492</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">8bba4946c3c5221081e63eec050131f6</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-23 00:27:09</sys_created_on>
+        <sys_db_object display_value="" name="m2m_app_config_theme">m2m_app_config_theme</sys_db_object>
+        <sys_id>5918b279593c4ed6af3a494cd82e81c4</sys_id>
+        <sys_metadata>9559cd820bc5221067be84a5531da985</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Transfer Queue" source="x_1210821_transf_0">1367a046c305221081e63eec050131de</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Transfer Queue">1367a046c305221081e63eec050131de</sys_scope>
+        <sys_scope_delete display_value="">4f14d597bc8c41acac24f3275ba7cd10</sys_scope_delete>
+        <sys_update_name>m2m_app_config_theme_9559cd820bc5221067be84a5531da985</sys_update_name>
+        <sys_update_version display_value="m2m_app_config_theme_9559cd820bc5221067be84a5531da985">c3ba4946c3c5221081e63eec050131f6</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-23 00:27:09</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

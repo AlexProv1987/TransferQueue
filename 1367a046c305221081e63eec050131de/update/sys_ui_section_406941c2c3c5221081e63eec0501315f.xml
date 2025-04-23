@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="406941c2c3c5221081e63eec0501315f" sys_domain="global" table="x_1210821_transf_0_incident_transfer_queue" version="3" view="workspace-incident-transfer-queue-0">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-23 00:21:13</sys_created_on>
+            <sys_id>c46981c2c3c5221081e63eec0501313a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1210821_transf_0_incident_transfer_queue" sys_domain="global" view="5d59cd824fc52210c5bd01a273c6e27e">406941c2c3c5221081e63eec0501315f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-23 00:21:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>initiated_by</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-23 00:21:13</sys_created_on>
+            <sys_id>cc6981c2c3c5221081e63eec05013137</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1210821_transf_0_incident_transfer_queue" sys_domain="global" view="5d59cd824fc52210c5bd01a273c6e27e">406941c2c3c5221081e63eec0501315f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-23 00:21:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>transfer_from</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-23 00:21:13</sys_created_on>
+            <sys_id>886941c2c3c5221081e63eec05013161</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1210821_transf_0_incident_transfer_queue" sys_domain="global" view="5d59cd824fc52210c5bd01a273c6e27e">406941c2c3c5221081e63eec0501315f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-23 00:21:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>accepted_at</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-23 00:21:13</sys_created_on>
+            <sys_id>c46981c2c3c5221081e63eec05013138</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1210821_transf_0_incident_transfer_queue" sys_domain="global" view="5d59cd824fc52210c5bd01a273c6e27e">406941c2c3c5221081e63eec0501315f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-23 00:21:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>rejected_at</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-23 00:21:13</sys_created_on>
+            <sys_id>cc6981c2c3c5221081e63eec05013135</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1210821_transf_0_incident_transfer_queue" sys_domain="global" view="5d59cd824fc52210c5bd01a273c6e27e">406941c2c3c5221081e63eec0501315f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-23 00:21:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-23 00:21:13</sys_created_on>
+            <sys_id>cc6981c2c3c5221081e63eec05013138</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1210821_transf_0_incident_transfer_queue" sys_domain="global" view="5d59cd824fc52210c5bd01a273c6e27e">406941c2c3c5221081e63eec0501315f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-23 00:21:13</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>task</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-23 00:21:13</sys_created_on>
+            <sys_id>c46981c2c3c5221081e63eec05013136</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1210821_transf_0_incident_transfer_queue" sys_domain="global" view="5d59cd824fc52210c5bd01a273c6e27e">406941c2c3c5221081e63eec0501315f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-23 00:21:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-23 00:21:13</sys_created_on>
+            <sys_id>c46981c2c3c5221081e63eec05013139</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1210821_transf_0_incident_transfer_queue" sys_domain="global" view="5d59cd824fc52210c5bd01a273c6e27e">406941c2c3c5221081e63eec0501315f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-23 00:21:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>transfer_to</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-23 00:21:13</sys_created_on>
+            <sys_id>cc6981c2c3c5221081e63eec05013136</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1210821_transf_0_incident_transfer_queue" sys_domain="global" view="5d59cd824fc52210c5bd01a273c6e27e">406941c2c3c5221081e63eec0501315f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-23 00:21:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>accepted_by</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-23 00:21:13</sys_created_on>
+            <sys_id>cc6981c2c3c5221081e63eec05013139</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1210821_transf_0_incident_transfer_queue" sys_domain="global" view="5d59cd824fc52210c5bd01a273c6e27e">406941c2c3c5221081e63eec0501315f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-23 00:21:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>rejected_by</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-23 00:21:13</sys_created_on>
+            <sys_id>c46981c2c3c5221081e63eec05013137</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1210821_transf_0_incident_transfer_queue" sys_domain="global" view="5d59cd824fc52210c5bd01a273c6e27e">406941c2c3c5221081e63eec0501315f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-23 00:21:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_1210821_transf_0_incident_transfer_queue</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-23 00:21:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>406941c2c3c5221081e63eec0501315f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1210821_transf_0_incident_transfer_queue</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Transfer Queue" source="x_1210821_transf_0">1367a046c305221081e63eec050131de</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Transfer Queue">1367a046c305221081e63eec050131de</sys_scope>
+            <sys_update_name>sys_ui_section_406941c2c3c5221081e63eec0501315f</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-23 00:21:13</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Workspace Incident Transfer Queue 0" name="workspace-incident-transfer-queue-0">5d59cd824fc52210c5bd01a273c6e27e</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

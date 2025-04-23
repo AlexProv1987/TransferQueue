@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile_ais_search_source_m2m">
+    <ais_search_profile_ais_search_source_m2m action="INSERT_OR_UPDATE">
+        <exclude_attachments_in_now_assist_genius_results>false</exclude_attachments_in_now_assist_genius_results>
+        <exclude_in_now_assist_genius_results>false</exclude_in_now_assist_genius_results>
+        <exclude_in_regular_search>false</exclude_in_regular_search>
+        <profile display_value="incident-transfer-queue Search Profile">dd59cd822ac52210a38014ab7e6ad486</profile>
+        <search_source display_value="Incident Transfer Queue">575941c2c3c5221081e63eec0501314a</search_source>
+        <sys_class_name>ais_search_profile_ais_search_source_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-23 00:21:09</sys_created_on>
+        <sys_id>575941c2c3c5221081e63eec0501314e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>incident-transfer-queue Search Profile.Incident Transfer Queue</sys_name>
+        <sys_package display_value="Transfer Queue" source="x_1210821_transf_0">1367a046c305221081e63eec050131de</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Transfer Queue">1367a046c305221081e63eec050131de</sys_scope>
+        <sys_update_name>ais_search_profile_ais_search_source_m2m_575941c2c3c5221081e63eec0501314e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-23 00:21:09</sys_updated_on>
+    </ais_search_profile_ais_search_source_m2m>
+</record_update>

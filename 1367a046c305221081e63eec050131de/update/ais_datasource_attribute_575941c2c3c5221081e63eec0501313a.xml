@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_datasource_attribute">
+    <ais_datasource_attribute action="INSERT_OR_UPDATE">
+        <attribute display_value="index_attachments">2dd8f14753320010ffaaddeeff7b1293</attribute>
+        <datasource display_value="Incident Transfer Queue Table">5b5941c2c3c5221081e63eec05013138</datasource>
+        <source>x_1210821_transf_0_incident_transfer_queue</source>
+        <sys_class_name>ais_datasource_attribute</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-23 00:21:09</sys_created_on>
+        <sys_id>575941c2c3c5221081e63eec0501313a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Transfer Queue" source="x_1210821_transf_0">1367a046c305221081e63eec050131de</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Transfer Queue">1367a046c305221081e63eec050131de</sys_scope>
+        <sys_update_name>ais_datasource_attribute_575941c2c3c5221081e63eec0501313a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-23 00:21:09</sys_updated_on>
+        <value>false</value>
+    </ais_datasource_attribute>
+</record_update>

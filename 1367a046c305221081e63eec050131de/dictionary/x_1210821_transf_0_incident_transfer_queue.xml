@@ -1,3 +1,3 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="592fa402c345221081e63eec050131c7" extends="x_1210821_transf_0_transfer_queue" label="Incident Transfer Queue" max_length="40" name="x_1210821_transf_0_incident_transfer_queue" type="collection"/>
+    <element db_object_id="592fa402c345221081e63eec050131c7" extends="x_1210821_transf_0_transfer_queue" label="Incident Transfer Queue" max_length="40" name="x_1210821_transf_0_incident_transfer_queue" text_index="true" type="collection"/>
 </database>

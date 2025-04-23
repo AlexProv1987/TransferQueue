@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_form_action">
+    <sys_ux_form_action action="INSERT_OR_UPDATE">
+        <action_type>ui_action</action_type>
+        <active>true</active>
+        <declarative_action/>
+        <description/>
+        <name>Initiate Transfer</name>
+        <specificity>20</specificity>
+        <sys_class_name>sys_ux_form_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-23 00:34:47</sys_created_on>
+        <sys_id>0f7c0986c3c5221081e63eec050131e8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Initiate Transfer</sys_name>
+        <sys_package display_value="Transfer Queue" source="x_1210821_transf_0">1367a046c305221081e63eec050131de</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Transfer Queue">1367a046c305221081e63eec050131de</sys_scope>
+        <sys_update_name>sys_ux_form_action_0f7c0986c3c5221081e63eec050131e8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-23 00:34:47</sys_updated_on>
+        <table>incident</table>
+        <ui_action display_value="Initiate Transfer">924c8dc6c3c5221081e63eec05013139</ui_action>
+    </sys_ux_form_action>
+    <sys_translated_text action="delete_multiple" query="documentkey=0f7c0986c3c5221081e63eec050131e8"/>
+</record_update>

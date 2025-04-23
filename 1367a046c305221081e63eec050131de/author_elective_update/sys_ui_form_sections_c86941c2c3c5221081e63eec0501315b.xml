@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections action="DELETE" form_id="c86941c2c3c5221081e63eec0501315b" sys_domain="global" table="x_1210821_transf_0_incident_transfer_queue" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-23 00:21:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>086941c2c3c5221081e63eec05013160</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1210821_transf_0_incident_transfer_queue" name="x_1210821_transf_0_incident_transfer_queue" sys_domain="global" view="5d59cd824fc52210c5bd01a273c6e27e">c86941c2c3c5221081e63eec0501315b</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_1210821_transf_0_incident_transfer_queue" sys_domain="global" view="5d59cd824fc52210c5bd01a273c6e27e">406941c2c3c5221081e63eec0501315f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-23 00:21:13</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_1210821_transf_0_incident_transfer_queue</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-23 00:21:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c86941c2c3c5221081e63eec0501315b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1210821_transf_0_incident_transfer_queue</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Transfer Queue" source="x_1210821_transf_0">1367a046c305221081e63eec050131de</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Transfer Queue">1367a046c305221081e63eec050131de</sys_scope>
+            <sys_update_name>sys_ui_form_sections_c86941c2c3c5221081e63eec0501315b</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-23 00:21:12</sys_updated_on>
+            <sys_user/>
+            <view display_value="Workspace Incident Transfer Queue 0" name="workspace-incident-transfer-queue-0">5d59cd824fc52210c5bd01a273c6e27e</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Transfer Queue">1367a046c305221081e63eec050131de</application>
+        <file_path/>
+        <instance_id>7630e5911bca3d98fe1b43f4bd4bcb22</instance_id>
+        <instance_name>dev192770</instance_name>
+        <name>sys_ui_form_sections_c86941c2c3c5221081e63eec0501315b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_form_sections form_id="c86941c2c3c5221081e63eec0501315b" sys_domain="global" table="x_1210821_transf_0_incident_transfer_queue" version="3"><sys_ui_form_section action="INSERT_OR_UPDATE"><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-23 00:21:13</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>086941c2c3c5221081e63eec05013160</sys_id><sys_mod_count>0</sys_mod_count><sys_overrides/><sys_ui_form display_value="x_1210821_transf_0_incident_transfer_queue" name="x_1210821_transf_0_incident_transfer_queue" sys_domain="global" view="5d59cd824fc52210c5bd01a273c6e27e">c86941c2c3c5221081e63eec0501315b</sys_ui_form><sys_ui_section caption="NULL" display_value="" name="x_1210821_transf_0_incident_transfer_queue" sys_domain="global" view="5d59cd824fc52210c5bd01a273c6e27e">406941c2c3c5221081e63eec0501315f</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-23 00:21:13</sys_updated_on></sys_ui_form_section><sys_ui_form action="INSERT_OR_UPDATE"><name>x_1210821_transf_0_incident_transfer_queue</name><roles/><sys_class_name>sys_ui_form</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-23 00:21:12</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>c86941c2c3c5221081e63eec0501315b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1210821_transf_0_incident_transfer_queue</sys_name><sys_overrides/><sys_package display_value="Transfer Queue" source="x_1210821_transf_0">1367a046c305221081e63eec050131de</sys_package><sys_policy/><sys_scope display_value="Transfer Queue">1367a046c305221081e63eec050131de</sys_scope><sys_update_name>sys_ui_form_sections_c86941c2c3c5221081e63eec0501315b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-23 00:21:12</sys_updated_on><sys_user/><view display_value="Workspace Incident Transfer Queue 0" name="workspace-incident-transfer-queue-0">5d59cd824fc52210c5bd01a273c6e27e</view><view_name/></sys_ui_form></sys_ui_form_sections></record_update>]]></payload>
+        <payload_hash>-393901954</payload_hash>
+        <record_name>Incident Transfer Queue</record_name>
+        <reverted_from/>
+        <source>12c8050ec385221081e63eec05013184</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-23 00:21:13</sys_created_on>
+        <sys_id>586981c2c3c5221081e63eec05013148</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19660052a0a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-23 00:21:13</sys_updated_on>
+        <type>Form Sections</type>
+        <update_guid>906981c215c52210444487840b5b9248</update_guid>
+        <update_guid_history>906981c215c52210444487840b5b9248:-393901954,086941c2c2c522101ef6602a1a89665d:98053904</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-23 00:27:30</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_form">sys_ui_form</sys_db_object>
+        <sys_id>502276be4c0c4e75a4267ee0f63572e1</sys_id>
+        <sys_metadata>c86941c2c3c5221081e63eec0501315b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1210821_transf_0_incident_transfer_queue</sys_name>
+        <sys_package display_value="Transfer Queue" source="x_1210821_transf_0">1367a046c305221081e63eec050131de</sys_package>
+        <sys_parent display_value="Incident Transfer Queue">592fa402c345221081e63eec050131c7</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Transfer Queue">1367a046c305221081e63eec050131de</sys_scope>
+        <sys_scope_delete display_value="">4f14d597bc8c41acac24f3275ba7cd10</sys_scope_delete>
+        <sys_update_name>sys_ui_form_sections_c86941c2c3c5221081e63eec0501315b</sys_update_name>
+        <sys_update_version display_value="sys_ui_form_sections_c86941c2c3c5221081e63eec0501315b">586981c2c3c5221081e63eec05013148</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-23 00:27:30</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

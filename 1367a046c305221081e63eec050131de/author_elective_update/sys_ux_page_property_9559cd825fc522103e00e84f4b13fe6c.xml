@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description>A default view for Incident Transfer Queue generated</description>
+        <name>view</name>
+        <page display_value="">9159cd8211c5221098ecf96fbfca4987</page>
+        <required_translations/>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-23 00:21:03</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>9559cd825fc522103e00e84f4b13fe6c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>view</sys_name>
+        <sys_package display_value="Transfer Queue" source="x_1210821_transf_0">1367a046c305221081e63eec050131de</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Transfer Queue">1367a046c305221081e63eec050131de</sys_scope>
+        <sys_update_name>sys_ux_page_property_9559cd825fc522103e00e84f4b13fe6c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-23 00:21:03</sys_updated_on>
+        <type>string</type>
+        <unique_name>x_1210821_transf_0.9159cd8211c5221098ecf96fbfca4987.root.view</unique_name>
+        <value>workspace-incident-transfer-queue-0</value>
+    </sys_ux_page_property>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Transfer Queue">1367a046c305221081e63eec050131de</application>
+        <file_path/>
+        <instance_id>7630e5911bca3d98fe1b43f4bd4bcb22</instance_id>
+        <instance_name>dev192770</instance_name>
+        <name>sys_ux_page_property_9559cd825fc522103e00e84f4b13fe6c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description>A default view for Incident Transfer Queue generated</description><name>view</name><page display_value="">9159cd8211c5221098ecf96fbfca4987</page><required_translations/><route/><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-23 00:21:03</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>global</sys_domain_path><sys_id>9559cd825fc522103e00e84f4b13fe6c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>view</sys_name><sys_package display_value="Transfer Queue" source="x_1210821_transf_0">1367a046c305221081e63eec050131de</sys_package><sys_policy/><sys_scope display_value="Transfer Queue">1367a046c305221081e63eec050131de</sys_scope><sys_update_name>sys_ux_page_property_9559cd825fc522103e00e84f4b13fe6c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-23 00:21:03</sys_updated_on><type>string</type><unique_name>x_1210821_transf_0.9159cd8211c5221098ecf96fbfca4987.root.view</unique_name><value>workspace-incident-transfer-queue-0</value></sys_ux_page_property></record_update>]]></payload>
+        <payload_hash>288315299</payload_hash>
+        <record_name>view</record_name>
+        <reverted_from/>
+        <source>5991d402c301221081e63eec05013119</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2025-04-22 20:17:27</sys_created_on>
+        <sys_id>76ba4946c3c5221081e63eec05013193</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>1965f25fbd80000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX Page Property</type>
+        <update_guid>36ba4946a0c52210251bac29feb0ea93</update_guid>
+        <update_guid_history>36ba4946a0c52210251bac29feb0ea93:288315299</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-23 00:27:08</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>05cf47d13d264d06836408e9be5eeda4</sys_id>
+        <sys_metadata>9559cd825fc522103e00e84f4b13fe6c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>view</sys_name>
+        <sys_package display_value="Transfer Queue" source="x_1210821_transf_0">1367a046c305221081e63eec050131de</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Transfer Queue">1367a046c305221081e63eec050131de</sys_scope>
+        <sys_scope_delete display_value="">4f14d597bc8c41acac24f3275ba7cd10</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_9559cd825fc522103e00e84f4b13fe6c</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_9559cd825fc522103e00e84f4b13fe6c">76ba4946c3c5221081e63eec05013193</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-23 00:27:08</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

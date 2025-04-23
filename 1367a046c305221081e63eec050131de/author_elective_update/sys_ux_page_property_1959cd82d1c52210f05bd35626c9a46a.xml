@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description>Contains references to global search configurations to be consumed by search components</description>
+        <name>global_search_configurations</name>
+        <page display_value="">9159cd8211c5221098ecf96fbfca4987</page>
+        <required_translations>[]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-23 00:21:03</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>1959cd82d1c52210f05bd35626c9a46a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>global_search_configurations</sys_name>
+        <sys_package display_value="Transfer Queue" source="x_1210821_transf_0">1367a046c305221081e63eec050131de</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Transfer Queue">1367a046c305221081e63eec050131de</sys_scope>
+        <sys_update_name>sys_ux_page_property_1959cd82d1c52210f05bd35626c9a46a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-23 00:21:03</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_1210821_transf_0.9159cd8211c5221098ecf96fbfca4987.root.global_search_configurations</unique_name>
+        <value>{&#13;
+    "globalSearchViewConfigId": "97a574ea53c0130084acddeeff7b12a6",&#13;
+"globalSearchRoute": "search"&#13;
+}</value>
+    </sys_ux_page_property>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Transfer Queue">1367a046c305221081e63eec050131de</application>
+        <file_path/>
+        <instance_id>7630e5911bca3d98fe1b43f4bd4bcb22</instance_id>
+        <instance_name>dev192770</instance_name>
+        <name>sys_ux_page_property_1959cd82d1c52210f05bd35626c9a46a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description>Contains references to global search configurations to be consumed by search components</description><name>global_search_configurations</name><page display_value="">9159cd8211c5221098ecf96fbfca4987</page><required_translations>[]</required_translations><route/><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-23 00:21:03</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>global</sys_domain_path><sys_id>1959cd82d1c52210f05bd35626c9a46a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>global_search_configurations</sys_name><sys_package display_value="Transfer Queue" source="x_1210821_transf_0">1367a046c305221081e63eec050131de</sys_package><sys_policy/><sys_scope display_value="Transfer Queue">1367a046c305221081e63eec050131de</sys_scope><sys_update_name>sys_ux_page_property_1959cd82d1c52210f05bd35626c9a46a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-23 00:21:03</sys_updated_on><type>json</type><unique_name>x_1210821_transf_0.9159cd8211c5221098ecf96fbfca4987.root.global_search_configurations</unique_name><value>{&#13;
+    "globalSearchViewConfigId": "97a574ea53c0130084acddeeff7b12a6",&#13;
+"globalSearchRoute": "search"&#13;
+}</value></sys_ux_page_property></record_update>]]></payload>
+        <payload_hash>-1698998098</payload_hash>
+        <record_name>global_search_configurations</record_name>
+        <reverted_from/>
+        <source>5991d402c301221081e63eec05013119</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2025-04-22 20:17:27</sys_created_on>
+        <sys_id>76ba4946c3c5221081e63eec05013154</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>1965f25fbd80000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX Page Property</type>
+        <update_guid>36ba4946fbc52210b7c32b632c0f6354</update_guid>
+        <update_guid_history>36ba4946fbc52210b7c32b632c0f6354:-1698998098</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-23 00:27:07</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>d55605b01e8e4faab2daeee4d11b9b24</sys_id>
+        <sys_metadata>1959cd82d1c52210f05bd35626c9a46a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>global_search_configurations</sys_name>
+        <sys_package display_value="Transfer Queue" source="x_1210821_transf_0">1367a046c305221081e63eec050131de</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Transfer Queue">1367a046c305221081e63eec050131de</sys_scope>
+        <sys_scope_delete display_value="">4f14d597bc8c41acac24f3275ba7cd10</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_1959cd82d1c52210f05bd35626c9a46a</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_1959cd82d1c52210f05bd35626c9a46a">76ba4946c3c5221081e63eec05013154</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-23 00:27:07</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

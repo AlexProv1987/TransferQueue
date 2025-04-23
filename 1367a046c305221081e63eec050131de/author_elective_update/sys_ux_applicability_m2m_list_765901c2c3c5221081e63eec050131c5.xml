@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_applicability_m2m_list">
+    <sys_ux_applicability_m2m_list action="DELETE">
+        <active>true</active>
+        <applicability display_value="Audience for app incident-transfer-queue">b65901c2c3c5221081e63eec050131a3</applicability>
+        <list/>
+        <order>100</order>
+        <sys_class_name>sys_ux_applicability_m2m_list</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-23 00:21:07</sys_created_on>
+        <sys_id>765901c2c3c5221081e63eec050131c5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Transfer Queue" source="x_1210821_transf_0">1367a046c305221081e63eec050131de</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Transfer Queue">1367a046c305221081e63eec050131de</sys_scope>
+        <sys_update_name>sys_ux_applicability_m2m_list_765901c2c3c5221081e63eec050131c5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-23 00:21:07</sys_updated_on>
+    </sys_ux_applicability_m2m_list>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Transfer Queue">1367a046c305221081e63eec050131de</application>
+        <file_path/>
+        <instance_id>7630e5911bca3d98fe1b43f4bd4bcb22</instance_id>
+        <instance_name>dev192770</instance_name>
+        <name>sys_ux_applicability_m2m_list_765901c2c3c5221081e63eec050131c5</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_applicability_m2m_list"><sys_ux_applicability_m2m_list action="INSERT_OR_UPDATE"><active>true</active><applicability display_value="Audience for app incident-transfer-queue">b65901c2c3c5221081e63eec050131a3</applicability><list/><order>100</order><sys_class_name>sys_ux_applicability_m2m_list</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-23 00:21:07</sys_created_on><sys_id>765901c2c3c5221081e63eec050131c5</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Transfer Queue" source="x_1210821_transf_0">1367a046c305221081e63eec050131de</sys_package><sys_policy/><sys_scope display_value="Transfer Queue">1367a046c305221081e63eec050131de</sys_scope><sys_update_name>sys_ux_applicability_m2m_list_765901c2c3c5221081e63eec050131c5</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-23 00:21:07</sys_updated_on></sys_ux_applicability_m2m_list></record_update>]]></payload>
+        <payload_hash>-174466170</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>12c8050ec385221081e63eec05013184</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-23 00:27:06</sys_created_on>
+        <sys_id>62ba0506c3c5221081e63eec0501312d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>196600a8ef10000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-23 00:27:06</sys_updated_on>
+        <type>List Applicability</type>
+        <update_guid>b65901c2f6c52210e782ddfd1fbffac7</update_guid>
+        <update_guid_history>b65901c2f6c52210e782ddfd1fbffac7:551307883,b65901c2f6c52210e782ddfd1fbffac7:551307883</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-23 00:27:07</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_applicability_m2m_list">sys_ux_applicability_m2m_list</sys_db_object>
+        <sys_id>7c0ffa76012548dfa56ba5ed6fe21529</sys_id>
+        <sys_metadata>765901c2c3c5221081e63eec050131c5</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Transfer Queue" source="x_1210821_transf_0">1367a046c305221081e63eec050131de</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Transfer Queue">1367a046c305221081e63eec050131de</sys_scope>
+        <sys_scope_delete display_value="">4f14d597bc8c41acac24f3275ba7cd10</sys_scope_delete>
+        <sys_update_name>sys_ux_applicability_m2m_list_765901c2c3c5221081e63eec050131c5</sys_update_name>
+        <sys_update_version display_value="sys_ux_applicability_m2m_list_765901c2c3c5221081e63eec050131c5">62ba0506c3c5221081e63eec0501312d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-23 00:27:07</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
